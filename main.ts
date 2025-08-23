@@ -1,8 +1,9 @@
-// ALGO-BiT — AissaouiSchools
-// LED always ON (no NeoPixel). IR P0/P1/P2 (digital+analog + line follow), Ultrasonic, Buzzer on P9, Bluetooth (UART).
-// No led.enable(false) anywhere.
 
-//% weight=100 color=#ff8000 icon="\uf0a1" block="ALGO-BiT"
+
+
+
+
+
 namespace algobit {
 
     export enum LinePolarity {
