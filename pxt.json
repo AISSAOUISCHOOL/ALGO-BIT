@@ -1,0 +1,14 @@
+{
+  "name": "algo-bit",
+  "description": "ALGO-BiT — AissaouiSchools. LED always ON (no NeoPixel). IR P0/P1/P2 digital+analog + line follow, Ultrasonic, Buzzer P9, Bluetooth UART. Uses your icon.png for the extension card.",
+  "dependencies": {
+    "core": "*",
+    "radio": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md",
+    "icon.png"
+  ],
+  "public": true
+}
